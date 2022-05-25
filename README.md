@@ -1,5 +1,5 @@
 # Árvore de decisão
-<div align="center"> <a href="#desciption">Sobre</a> • <a href="#tecnologies">Tecnologias e bibliotecas</a> • <a href="#Dataset">Dataset</a> </div>
+<div align="center"> <a href="#description">Sobre</a> • <a href="#tecnologies">Tecnologias e bibliotecas</a> • <a href="#dataset">Dataset</a> </div>
   
 
 ### [Sobre](description)
@@ -17,7 +17,7 @@ Através das árvores de decisão é possível extrair regras do tipo “se-ent�
 # Motivação
 Esse projeto foi desenvolvido como demonstração prática do algoritmo utilizado no [Bootcamp DiversiData Tech PAN](https://www.igti.com.br/bootcamp/diversidata-tech-pan), IGIT Data Science.
 
-# [Tecnologias e bibliotecas][tecnologies]
+# [Tecnologias e bibliotecas](tecnologies)
 Linguagem de programação:</br>
 [Python 3.9](https://www.python.org/)
 
@@ -35,6 +35,6 @@ IDE:
 Para esse projeto, optei por utilizar o aplicativo colab google notebook:</br>
 [Colab Google](https://colab.research.google.com/)
 
-# [Dataset][dataset]
+# [Dataset](dataset)
 Utilizamos o dataset diabets disponibilizado em:</br>
 [Dataset diabets](https://www.kaggle.com/datasets/saurabh00007/diabetescsv?select=diabetes.csv)
