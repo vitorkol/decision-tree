@@ -33,7 +33,7 @@ Bibliotecas utilizadas:
 IDE:
 
 Para esse projeto, optei por utilizar o aplicativo web Jupyter Notebook com Colab Google:</br>
-[Jupyter Notebook](https://jupyter.org/)
+[Jupyter Notebook](https://jupyter.org/)</br>
 [Colab Google](https://colab.research.google.com/)
 
 # Dataset
