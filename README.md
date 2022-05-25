@@ -1,5 +1,5 @@
 # Árvore de decisão
-<div align="center"> <a href="/Sobre/">Sobre</a> • <a href="/Tecnologias&nbsp;e&nbsp;bibliotecas/">Tecnologias e bibliotecas</a> • <a href="/Dataset/">Dataset</a> </div>
+<div align="center"> <a href="./Sobre/">Sobre</a> • <a href="./Tecnologias&nbsp;e&nbsp;bibliotecas/">Tecnologias e bibliotecas</a> • <a href="./Dataset/">Dataset</a> </div>
   
 # Sobre
 Árvores de decisão são modelos estatísticos que utilizam treinamento supervisionado para realizar a classificação ou previsão de dados. O objetivo é criar um modelo que preveja o valor de uma variável de destino aprendendo regras de decisão simples inferidas a partir dos recursos de dados.
