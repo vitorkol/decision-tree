@@ -2,7 +2,7 @@
 <div align="center"> <a href="#description">Sobre</a> • <a href="#tecnologies">Tecnologias e bibliotecas</a> • <a href="#dataset">Dataset</a> </div>
   
 
-# Sobre ##description
+## [Sobre](description)
 Árvores de decisão são modelos estatísticos que utilizam treinamento supervisionado para realizar a classificação ou previsão de dados. O objetivo é criar um modelo que preveja o valor de uma variável de destino aprendendo regras de decisão simples inferidas a partir dos recursos de dados.
 
 Estes modelos utilizam a estratégia de dividir para conquistar: um problema complexo é decomposto em sub-problemas mais simples e recursivamente esta técnica é aplicada a cada sub-problema. As árvores de decisão estão entre os mais populares algoritmos de inferência e tem sido aplicado em várias áreas como:
@@ -35,6 +35,6 @@ IDE:
 Para esse projeto, optei por utilizar o aplicativo colab google notebook:</br>
 [Colab Google](https://colab.research.google.com/)
 
-# Dataset ## dataset
+## [Dataset](dataset)
 Utilizamos o dataset diabets disponibilizado em:</br>
 [Dataset diabets](https://www.kaggle.com/datasets/saurabh00007/diabetescsv?select=diabetes.csv)
