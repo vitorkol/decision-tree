@@ -32,7 +32,8 @@ Bibliotecas utilizadas:
 
 IDE:
 
-Para esse projeto, optei por utilizar o aplicativo colab google notebook:</br>
+Para esse projeto, optei por utilizar o aplicativo web Jupyter Notebook com Colab Google:</br>
+[Jupyter Notebook](https://jupyter.org/)
 [Colab Google](https://colab.research.google.com/)
 
 # Dataset
